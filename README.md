@@ -20,7 +20,6 @@ Lessons Learnt
 
 **Overview**
 
-
 The powertrain is the complete system that transfers energy from the battery to the wheels. In this electric vehicle, the energy flows through:
 
 **Battery → BMS → Motor Controller → Motor → Gearbox → Drive Shaft → CV Joints → Wheel**
